@@ -16,4 +16,11 @@ Technologies used in this projects,
 
 Steps in this file
 1. collect the data
-2.
+2.Steps doing in project
+3. Perform EDA
+4. Data cleaning
+5. Feature Engineering
+6. Feature Scaling
+7. standarized the data
+8. Model building
+9. Use diferent models of machine learning like linear-regression, SVM, Decision Tree, Ridge and lasso etc for prediction of our model
